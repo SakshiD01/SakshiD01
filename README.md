@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+MSc Business Analytics student at Maynooth University | Data Science & Machine Learning Enthusiast | Exploring analytics and AI-driven solutions
 **SakshiD01/SakshiD01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🎓 MSc Business Analytics Student at Maynooth University, Ireland
