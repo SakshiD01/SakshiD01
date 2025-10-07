@@ -1,9 +1,7 @@
-## Hi there 👋
+ Hi there 👋
 
 <!--
 **SakshiD01/SakshiD01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 🎓 MSc Business Analytics Student at Maynooth University, Ireland
 💻 B.Tech in Information Technology – specialization in Data Science
