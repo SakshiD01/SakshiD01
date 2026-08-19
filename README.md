@@ -32,6 +32,6 @@ Expanding skills in machine learning, predictive modeling, and data storytelling
 Looking for internship and part-time opportunities in data science & analytics
 
 📫 Connect With Me
-💼 LinkedIn - https://www.linkedin.com/in/sakshi-dhamane-55a44a255/
+💼 LinkedIn - https://www.linkedin.com/in/sakshi-dhamane1/
 ✉️ Email: sakshijdhamane@gmail.com
 
